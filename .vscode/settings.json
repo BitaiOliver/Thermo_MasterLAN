@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "random": "cpp",
+        "istream": "cpp",
+        "*.tcc": "cpp",
+        "ostream": "cpp",
+        "array": "c",
+        "deque": "c",
+        "initializer_list": "c",
+        "list": "c",
+        "vector": "c",
+        "xhash": "c",
+        "xstring": "c",
+        "xtree": "c",
+        "xutility": "c",
+        "string": "c",
+        "unordered_map": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
